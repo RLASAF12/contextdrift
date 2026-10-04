@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/contextdrift) (folder `contextdrift/`, full history preserved). Archived 2026-10-04.
+
 # ContextDrift — Agent Failure Series #13
 
 **The constraint was in the window the whole time. The agent stopped listening anyway.**
